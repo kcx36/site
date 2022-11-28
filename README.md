@@ -6,9 +6,9 @@
 
 ## 成员分工
 
-* 王琳庭	HTML+CSS静态网页搭建与美化、答辩+报告撰写
-* 孔陈新	HTML+CSS静态网页搭建与美化
-* 周博宇	HTML+CSS静态网页搭建与美化
-* 巫章锋	JavaScript动态交互
-* 张骏龙	JavaScript动态交互
-* 鄢靖瑜	JavaScript动态交互
+* __王琳庭__	HTML+CSS静态网页搭建与美化、答辩+报告撰写
+* __孔陈新__	HTML+CSS静态网页搭建与美化
+* __周博宇__	HTML+CSS静态网页搭建与美化
+* __巫章锋__	JavaScript动态交互
+* __张骏龙__	JavaScript动态交互
+* __鄢靖瑜__	JavaScript动态交互
